@@ -1,0 +1,59 @@
+pymc/distributions/multivariate.py
+  s_55d378dab98863::t_147578f74e8c3a 75,104,2777-2780,2782-2791,2794-2796,2798-2840,2842-2844,2846-2866,2869-2876
+  s_55d378dab98863::t_96b8f8773e3330 2781,2792-2793,2797,2845
+  s_55d378dab98863::t_052c837465df08 2841
+  s_55d378dab98863::t_aa1126fb89efc1 2867-2868
+  s_55d378dab98863::t_c18cb37fad0cc4 2877-2878
+pymc/dims/distributions/transforms.py
+  s_55d378dab98863::t_09cb9af3413284 15,172-184,195-196,198-212
+  s_55d378dab98863::t_052c837465df08 16,185-194,197
+  s_55d378dab98863::t_17ffa101aa9d61 213-214
+  s_55d378dab98863::t_9dfac5d11e2eea 21
+tests/distributions/test_multivariate.py
+  s_55d378dab98863::t_ff3d4493a93eb5 1585
+  s_55d378dab98863::t_b2a77b9cd4e3cc 1525-1584,1586-1593,1628
+  s_55d378dab98863::t_5948d85c4fabce 1594-1627
+pymc/distributions/transforms.py
+  s_55d378dab98863::t_7fc570982d47d3 743-744
+  s_55d378dab98863::t_7fd8fec434f3f3 699-719,721-742
+  s_55d378dab98863::t_052c837465df08 720
+pymc/dims/distributions/vector.py
+  s_55d378dab98863::t_57801b65ce6bcd 28-29
+  s_55d378dab98863::t_5eb0d22e25103d 22
+  s_55d378dab98863::t_09cb9af3413284 26-27,30,186-227,229-254,256-266,268-271,273-282
+  s_55d378dab98863::t_96b8f8773e3330 267,272
+  s_55d378dab98863::t_9ac96491704df1 25
+  s_55d378dab98863::t_196415a6e2bb01 14
+  s_55d378dab98863::t_052c837465df08 15,228,255
+  s_55d378dab98863::t_71761b19c63348 283-284
+pymc/distributions/__init__.py
+  s_55d378dab98863::t_775826c54f61c6 102,203
+tests/dims/distributions/test_transforms.py
+  s_55d378dab98863::t_c28026be515922 1-77
+docs/source/api/dims/distributions.rst
+  s_55d378dab98863::t_052c837465df08 44
+tests/dims/distributions/test_vector.py
+  s_55d378dab98863::t_930faeffd9dbc9 24-25
+  s_55d378dab98863::t_ddc04859309abe 135-136,138-139
+  s_55d378dab98863::t_5948d85c4fabce 143-159
+  s_55d378dab98863::t_04e00e14356c1d 113-134,137,140
+  s_55d378dab98863::t_97092b35b49257 141-142
+docs/source/api/distributions/multivariate.rst
+  s_55d378dab98863::t_052c837465df08 25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "bcda0227007580ee2b2db025bf9208bfae9276b9",
+  "prompts": {},
+  "sessions": {
+    "s_55d378dab98863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6d5b798c-e92f-4766-8486-4f7ec004fed0",
+        "model": "claude-fable-5"
+      },
+      "human_author": null
+    }
+  }
+}
