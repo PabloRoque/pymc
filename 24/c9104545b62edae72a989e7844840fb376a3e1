@@ -1,0 +1,46 @@
+pymc/distributions/multivariate.py
+  s_55d378dab98863::t_147578f74e8c3a 75,104,2777-2780,2782-2791,2794-2796,2798-2844,2846-2875
+  s_55d378dab98863::t_96b8f8773e3330 2781,2792-2793,2797,2845
+  s_55d378dab98863::t_c18cb37fad0cc4 2876-2877
+pymc/dims/distributions/transforms.py
+  s_55d378dab98863::t_09cb9af3413284 15,171-207
+  s_55d378dab98863::t_17ffa101aa9d61 208-209
+pymc/dims/distributions/vector.py
+  s_55d378dab98863::t_09cb9af3413284 25-26,29,185-267,269-272,274-283
+  s_55d378dab98863::t_5eb0d22e25103d 21
+  s_55d378dab98863::t_96b8f8773e3330 268,273
+  s_55d378dab98863::t_9ac96491704df1 24
+  s_55d378dab98863::t_57801b65ce6bcd 27-28
+  s_55d378dab98863::t_71761b19c63348 284-285
+  s_55d378dab98863::t_196415a6e2bb01 14
+pymc/distributions/transforms.py
+  s_55d378dab98863::t_7fd8fec434f3f3 699-742
+  s_55d378dab98863::t_7fc570982d47d3 743-744
+tests/dims/distributions/test_vector.py
+  s_55d378dab98863::t_04e00e14356c1d 25,113-134,137,140
+  s_55d378dab98863::t_ddc04859309abe 135-136,138-139
+  s_55d378dab98863::t_dc53c913b284a3 141-142
+tests/dims/distributions/test_transforms.py
+  s_55d378dab98863::t_c28026be515922 1-77
+tests/distributions/test_multivariate.py
+  s_55d378dab98863::t_b2a77b9cd4e3cc 1525-1584,1586-1594
+  s_55d378dab98863::t_ff3d4493a93eb5 1585
+pymc/distributions/__init__.py
+  s_55d378dab98863::t_775826c54f61c6 102,203
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "24c9104545b62edae72a989e7844840fb376a3e1",
+  "prompts": {},
+  "sessions": {
+    "s_55d378dab98863": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6d5b798c-e92f-4766-8486-4f7ec004fed0",
+        "model": "claude-fable-5"
+      },
+      "human_author": "PabloRoque <pablo.deroque@glovoapp.com>"
+    }
+  }
+}
